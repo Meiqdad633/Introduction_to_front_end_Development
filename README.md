@@ -1,4 +1,4 @@
-# Coursera Front-End Course Exercises
+# Coursera Meta Front-End Development Course Exercises
 # Introduction_to_front_end_Development
 
 This repository contains exercises and code snippets from the Introduction_to_front_end_Development course on Coursera. The course covers various topics related to front-end technologies, including HTML, CSS.
